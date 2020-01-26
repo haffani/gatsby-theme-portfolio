@@ -1,6 +1,11 @@
 # gatsby-theme-portfolio
+
 A personal portfolio for a software engineer
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
+Credit to Brittany Chiang -> V4
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
