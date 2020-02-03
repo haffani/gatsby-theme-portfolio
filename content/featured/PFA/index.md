@@ -1,7 +1,7 @@
 ---
 date: "1"
 title: "Technology watch portal (Veille technologique)"
-cover: "./14.png"
+cover: "./5.png"
 github: ""
 external: ""
 tech:
