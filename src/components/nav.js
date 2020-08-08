@@ -260,7 +260,8 @@ class Nav extends Component {
                     </a>
                   ) : (
                     <Link to="/" aria-label="home">
-                      <IconLogo />
+                      <img src={logo} alt="Logo" width="400" />
+                      {/*<IconLogo />*/}
                     </Link>
                   )}
                 </StyledLogo>

@@ -15,6 +15,7 @@ import Jobs from "./sections/jobs"
 import Featured from "./sections/featured"
 import Projects from "./sections/projects"
 import Contact from "./sections/contact"
+import Articles from "./sections/articles"
 
 export {
   Head,
@@ -31,5 +32,6 @@ export {
   Featured,
   Projects,
   Contact,
+  Articles,
   Footer,
 }

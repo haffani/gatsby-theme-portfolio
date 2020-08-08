@@ -5,10 +5,9 @@ skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - Java & Jakarta EE
+  - Spring
   - React
   - Angular
-  - Node.js
-  - Express
   - Oracle PL/SQL
   - PrimeNG
 ---

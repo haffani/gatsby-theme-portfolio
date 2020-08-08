@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: "Hamza AFFANI | Software Engineer",
   siteDescription:
-    "Hamza AFFANI is a software engineer based in Casablanca, who specializes in developing high-quality payment systems and applications.",
+    "Hamza AFFANI is a software engineer based in Casablanca, who specializes in developing high-quality systems with two years experience on the payment industry",
   siteKeywords:
     "Hamza AFFANI, Hamza, Affani, haffani, software engineer, front-end engineer, Java developer, javascript, elaffani",
   siteUrl: "https://haffani.netlify.com",
@@ -42,6 +42,10 @@ module.exports = {
     {
       name: "Work",
       url: "/#projects",
+    },
+    {
+      name: "Posts",
+      url: "/#posts",
     },
     {
       name: "Contact",

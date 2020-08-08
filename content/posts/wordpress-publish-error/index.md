@@ -1,11 +1,12 @@
 ---
-title: Wordpress Publishing Error
-description: Trying to create a simple post in WordPress
+title: About GraphQL
+description: How i realized the importance and how graphql is suer useful
 date: "2019-12-03"
 draft: false
-slug: "/pensieve/wordpress-publish-error"
+slug: "publications/graphql"
+img: "graphql"
 tags:
-  - WordPress
+  - GraphQL
 ---
 
 ## Problem
